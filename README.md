@@ -7,6 +7,20 @@ Zero-shot composed image retrieval (ZS-CIR), which takes a textual modification 
 
 # Usage
 
+## Requirements
+
+Please install the required packages by running the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+**For the CLIP model, you need to import the CLIP model library from the github repository https://github.com/openai/CLIP.** 
+
+**For the BLIP model, you need to import the BLIP model library from the github repository https://github.com/salesforce/LAVIS/tree/main/lavis.**
+
+We thank the authors for their excellent work.
+
 ## Dataset
 <details>
   <summary>The downloaded dataset should look like this (click to expand)</summary>
