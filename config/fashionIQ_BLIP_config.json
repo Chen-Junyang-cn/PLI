@@ -1,0 +1,10 @@
+{
+    "clip_image_model": "None",
+    "clip_text_model": "None",
+    "dataset": "fashionIQ",
+    "evaluator_code": "blip2_evaluator",
+    "blip_model_name": "blip2_feature_extractor",
+    "blip_model_type": "pretrain",
+    "image_encoders": "blip_image_encoder",
+    "text_encoders": "blip_text_encoder"
+}

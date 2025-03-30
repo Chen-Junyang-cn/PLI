@@ -1,0 +1,9 @@
+{
+    "clip_image_model": "RN50.pt",
+    "clip_text_model": "RN50.pt",
+    "dataset": "fashionIQ",
+    "evaluator_code": "diffusion_evaluator",
+    "diffusion_model_id_or_path": "./models/stable-diffusion-v1-5",
+    "output_type": "pt",
+    "img_size": 224
+}
