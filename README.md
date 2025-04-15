@@ -21,6 +21,17 @@ pip install -r requirements.txt
 
 We thank the authors for their excellent work.
 
+The structure of the code is as follows:
+
+```
+lavis
+|- ...
+clip
+|- ...
+models
+...
+```
+
 ## Dataset
 <details>
   <summary>The downloaded dataset should look like this (click to expand)</summary>
