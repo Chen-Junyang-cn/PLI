@@ -19,6 +19,8 @@ pip install -r requirements.txt
 
 **For the BLIP model, you need to import the BLIP model library from the github repository https://github.com/salesforce/LAVIS/tree/main/lavis.**
 
+**The baseline code is borrowed from [CoSMo](https://github.com/postBG/CosMo.pytorch) and [Multi-grained Uncertainty Regularization](https://github.com/Monoxide-Chen/uncertainty_retrieval).**
+
 We thank the authors for their excellent work.
 
 The structure of the code is as follows:
@@ -31,6 +33,11 @@ clip
 models
 ...
 ```
+## Model Checkpoints
+
+We share the CLIP L/14 model that has been pre-trained on Llava and ImageNet and performs best on the FashionIQ dataset.
+
+Link: https://pan.quark.cn/s/f4d1ca0d40bf
 
 ## Dataset
 <details>
